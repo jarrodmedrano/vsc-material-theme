@@ -1,7 +1,7 @@
 {
-  "name": "vsc-material-theme",
-  "displayName": "Material Theme",
-  "description": "The most epic theme now for Visual Studio Code",
+  "name": "vsc-material-theme-legacy",
+  "displayName": "Material Theme Legacy",
+  "description": "The most epic theme now for Visual Studio Code, before they changed it.",
   "version": "30.0.0",
   "publisher": "Equinusocio",
   "license": "Apache-2.0",
@@ -18,10 +18,10 @@
   "homepage": "https://material-theme.site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/material-theme/vsc-material-theme.git"
+    "url": "https://github.com/jarrodmedrano/vsc-material-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/material-theme/vsc-material-theme/issues"
+    "url": "https://github.com/jarrodmedrano/vsc-material-theme/issues"
   },
   "engines": {
     "node": "<=10",
